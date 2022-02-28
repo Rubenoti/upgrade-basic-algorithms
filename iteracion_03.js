@@ -1,0 +1,10 @@
+let mult = 10 * 5;
+console.log(mult);
+let div = 10 / 2;
+console.log(div);
+let rest = 15 % 9;
+console.log(rest);
+let y = 10;
+let z = 5;
+console.log(y + z);
+console.log(y * z);

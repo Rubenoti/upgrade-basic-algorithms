@@ -34,6 +34,7 @@ const car2 = {name: 'Chevrolet Corbina', basePrice: 70000, finalPrice: 80000};
 <--------------------------------------->
 
 **Iteración #3: Operadores**
+
 1.1 Multiplica 10 por 5 y muestra el resultado mediante alert.
 1.2 Divide 10 por 2 y muestra el resultado en un alert.
 1.3 Muestra mediante un alert el resto de dividir 15 por 9.
